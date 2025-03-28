@@ -34,9 +34,14 @@ We use the **Aviation Accident Database** containing aviation accident reports f
 ## 📊 Key Insights & Visualizations
 ### 1️⃣ Accident Trends Over Time
 - Line chart showing aviation accident trends from **1982 onwards**.
+- This helps in identifying peak accident periods.
+- ![image](https://github.com/user-attachments/assets/f99c6f5b-c88b-41fb-8de7-2e613af677a9)
+
 
 ### 2️⃣ Top 10 States with Most Accidents
 - Bar chart highlighting the states with the highest number of aviation incidents.
+- ![image](https://github.com/user-attachments/assets/07ad6039-8391-46fc-be6a-cb07997787d1)
+
 
 ### 3️⃣ Fatality Rate Per Year
 - Bar chart analyzing fatality percentages over time, providing insight into aviation safety improvements.
